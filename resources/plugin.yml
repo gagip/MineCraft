@@ -1,0 +1,11 @@
+name: gagip
+version: 1.0
+main: me.gagip.Main
+api-version: 1.18
+
+commands:
+  좌표저장:
+    description: 현재 위치한 장소의 좌표 저장
+  텔레포트:
+    aliases: 좌표이동
+    description: 저장된 좌표로 이동
