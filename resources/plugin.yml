@@ -1,5 +1,5 @@
 name: gagip
-version: 1.0
+version: 0.1.0
 main: me.gagip.Main
 api-version: 1.18
 
